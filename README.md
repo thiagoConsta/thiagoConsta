@@ -7,4 +7,4 @@
 
 💻 [Linkedin](https://www.linkedin.com/in/thiago-ribeiro-costa-5abba4284/) 
 
-![](https://media.tenor.com/HFeeZJtAV3QAAAAi/corinthians-paulista-logo.gif)
+
