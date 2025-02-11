@@ -1,4 +1,4 @@
-### Boa!
+### Bem vindo!
 
 - Estudante de Análise e Desenvolvimento de Dados
 - Espaço utilizado para compartilhamento dos meus projetos desenvolvidos
