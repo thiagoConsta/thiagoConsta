@@ -1,4 +1,4 @@
-# oi! 👋 Sou o Thiago
+# Thiago Ribeiro
 <div>
   <a href="https://www.linkedin.com/in/thiago-ribeiro-costa-5abba4284/">
     <img src="https://img.shields.io/badge/LinkedIn-Thiago_Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
