@@ -1,6 +1,14 @@
-# Hey! 👋 Sou o Thiago
+# oi! 👋 Sou o Thiago
+<div>
+  <a href="mailto:thiagoribeirodif@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thiagoribeirodif%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-ribeiro-costa-5abba4284/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thiago_Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-Estudante de **Análise e Desenvolvimento de Dados** que gosta de criar coisas legais com código.
+Estudante de **Análise e Desenvolvimento de Dados** que gosta de criar coisas com código.
 
 ## 🔭 No que ando trabalhando
 
@@ -10,7 +18,7 @@ Estudante de **Análise e Desenvolvimento de Dados** que gosta de criar coisas l
 
 ## 🛠️ Ferramentas que uso
 
-**Linguagens:** JavaScript, PHP, Python, HTML, CSS  
+**Linguagens:** JavaScript, PHP, HTML, CSS  
 **Foco atual:** Análise de dados e desenvolvimento web  
 **Aprendendo:** Ciência de dados e IA  
 
@@ -24,13 +32,7 @@ Estudante de **Análise e Desenvolvimento de Dados** que gosta de criar coisas l
 
 **[FutLink](https://github.com/TCC-Nexa-Luminy/FutLink)** - Plataforma completa para conectar talentos do futebol com oportunidades reais. Feito em equipe como TCC.
 
-*Outros projetos estão espalhados pelos meus repos - sinta-se livre para explorar!*
-
-## 📫 Bora trocar uma ideia?
-
-**Email:** thiagoribeirodif@gmail.com  
-**LinkedIn:** [Thiago Ribeiro](https://www.linkedin.com/in/thiago-ribeiro-costa-5abba4284/)
-
+*Outros projetos estão espalhados pelos meus repos - sinta-se livre para explorar*
 ---
 
 *"Transformando dados em insights e ideias em código"* ✨
