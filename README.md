@@ -1,10 +1,10 @@
 # oi! 👋 Sou o Thiago
 <div>
-  <a href="mailto:thiagoribeirodif@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thiagoribeirodif%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/thiago-ribeiro-costa-5abba4284/">
     <img src="https://img.shields.io/badge/LinkedIn-Thiago_Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thiagoribeirodif@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thiagoribeirodif%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
