@@ -10,17 +10,14 @@
 
 Estudante de **Análise e Desenvolvimento de Dados** que gosta de criar coisas com código.
 
-## 🔭 No que ando trabalhando
+## Projetos próprios desenvolvido
 
-- **FutLink** - Uma plataforma que conecta jogadores de futebol com clubes (TCC que virou paixão)
-- Estudando **Machine Learning** e **Data Science** 
-- Explorando o mundo dos dados e suas possibilidades
+- **FutLink** - Uma plataforma que conecta jogadores de futebol com clubes (TCC que virou paixão) 
 
 ## 🛠️ Ferramentas que uso
 
-**Linguagens:** JavaScript, PHP, HTML, CSS  
-**Foco atual:** Análise de dados e desenvolvimento web  
-**Aprendendo:** Ciência de dados e IA  
+**Linguagens:** JavaScript, PHP, HTML, CSS, C#
+**Aprendendo:**  C#, C++, Java
 
 ## 📊 Algumas estatísticas
 
