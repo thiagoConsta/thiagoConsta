@@ -8,7 +8,6 @@
   </a>
 </div>
 
-Estudante de **Análise e Desenvolvimento de Dados** que gosta de criar coisas com código.
 
 ## Projetos próprios desenvolvido
 
