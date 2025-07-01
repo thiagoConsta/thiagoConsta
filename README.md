@@ -14,18 +14,16 @@ Estudante de **Análise e Desenvolvimento de Dados** que gosta de criar coisas c
 
 - **FutLink** - Uma plataforma que conecta jogadores de futebol com clubes (TCC que virou paixão) 
 
-## 🛠️ Ferramentas que uso
+Ferramentas que uso
 
 **Linguagens:** JavaScript, PHP, HTML, CSS, C#
 **Aprendendo:**  C#, C++, Java
-
-## 📊 Algumas estatísticas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoConsta&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagoConsta&theme=tokyonight&hide_border=true)
 
-## 🚀 Projetos que vale a pena dar uma olhada
+##  Projetos que vale a pena dar uma olhada
 
 **[FutLink](https://github.com/TCC-Nexa-Luminy/FutLink)** - Plataforma completa para conectar talentos do futebol com oportunidades reais. Feito em equipe como TCC.
 
