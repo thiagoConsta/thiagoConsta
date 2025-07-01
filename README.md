@@ -27,7 +27,4 @@ Ferramentas que uso
 
 **[FutLink](https://github.com/TCC-Nexa-Luminy/FutLink)** - Plataforma completa para conectar talentos do futebol com oportunidades reais. Feito em equipe como TCC.
 
-*Outros projetos estão espalhados pelos meus repos - sinta-se livre para explorar*
----
-
-*"Transformando dados em insights e ideias em código"* ✨
+*"Transformando ideias em código"*
