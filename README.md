@@ -17,7 +17,7 @@ Ferramentas que uso
 
 **Linguagens:** JavaScript, PHP, HTML, CSS, C#
 **Aprendendo:**  C#, C++, Java
-
+![Thiagol GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoConstal-dev&show_icons=true&theme=merko)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoConsta&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagoConsta&theme=tokyonight&hide_border=true)
