@@ -1,4 +1,5 @@
 # Thiago Ribeiro
+
 <div>
   <a href="https://www.linkedin.com/in/thiago-ribeiro-costa-5abba4284/">
     <img src="https://img.shields.io/badge/LinkedIn-Thiago_Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -7,6 +8,10 @@
     <img src="https://img.shields.io/badge/Email-thiagoribeirodif%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+## Sobre mim
+
+Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Fatec de Ferraz de Vasconcelos**. Apaixonado por tecnologia e desenvolvimento, sempre buscando novos desafios e aprendizado constante.
 
 ## Projetos próprios desenvolvidos
 
@@ -24,4 +29,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoConsta&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagoConsta&theme=tokyonight&hide_border=true)
-
