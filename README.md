@@ -15,7 +15,8 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Fatec de Fer
 
 ## Projetos próprios desenvolvidos
 
-- **FutLink** - Uma plataforma que conecta jogadores de futebol com clubes (TCC que virou paixão) 
+- **FutLink** - Uma plataforma que conecta jogadores de futebol com clubes (TCC que virou paixão)
+-   [Repositório no GitHub](https://github.com/TCC-Nexa-Luminy/FutLink)
 
 ### Ferramentas que uso
 
