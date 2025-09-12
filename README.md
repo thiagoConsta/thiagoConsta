@@ -1,4 +1,4 @@
-# Thiago Ribeiro
+# Thiago Ribeiro Costa
 
 <div>
   <a href="https://www.linkedin.com/in/thiago-ribeiro-costa-5abba4284/">
