@@ -13,9 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thiagoConsta&style=for-the-badge&color=0077B5" alt="profile views" />
-</p>
 
 ---
 
