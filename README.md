@@ -79,9 +79,8 @@ Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Soft
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42" alt="Power BI" title="Power BI" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" height="42" alt="Excel" title="Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="42" height="42" alt="Power BI" title="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" width="42" height="42" alt="Excel" title="Excel" />
 </p>
 
 **Cloud, infraestrutura e monitoramento**
