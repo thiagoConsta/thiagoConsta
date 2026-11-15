@@ -72,6 +72,9 @@ Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Soft
 
 **Dados e análise**
 
+
+<!-- Dados e análise -->
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" />
   &nbsp;
@@ -79,9 +82,11 @@ Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Soft
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="42" height="42" alt="Power BI" title="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" width="42" height="42" alt="Excel" title="Excel" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="42" height="42" alt="Power BI" title="Power BI" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="42" height="42" alt="Excel" title="Excel" />
 </p>
+
 
 **Cloud, infraestrutura e monitoramento**
 
