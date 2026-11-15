@@ -1,85 +1,105 @@
-<h1 align="center">Thiago Ribeiro Costa</h1>
-<h3 align="center">Desenvolvedor de Software & Dados</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiago-ribeiro-costa-5abba4284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:thiagoribeirodif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/thiagoConsta">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
+# Thiago Ribeiro Costa
 
----
+**Desenvolvimento de Software • Engenharia de Dados • Cloud & IA**
 
-### 🧭 Sobre mim
+<img src="./assets/cowboy-bebop.gif" width="520" alt="Cowboy Bebop" />
 
-Transito entre dois mundos que se completam: **desenvolvimento de software** e **análise de dados**. No dia a dia, trabalho dando suporte a operações globais na área de Treinamento e Qualidade, onde trato, consolido e transformo dados em indicadores estratégicos (NPS, TMO, TDI, Quartis). Fora disso, estou cursando **ADS na Fatec de Ferraz de Vasconcelos** e construindo aplicações do zero — do banco de dados à interface.
+<br/>
 
-Gosto de estar nos dois lados da mesma moeda: entender o dado e construir o sistema que o gera.
+<a href="www.linkedin.com/in/
+thiagoribcosta">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:thiagoribeirodif@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/thiagoConsta">
+  <img src="https://cdn.simpleicons.org/github/808080" width="30" height="30" alt="GitHub" />
+</a>
 
-- 💼 Suporte a operações globais em T&D, com foco em dados e indicadores de performance
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🧪 Projeto próprio: **FutLink**, plataforma que conecta jogadores de futebol a clubes
-- 🌱 Evoluindo em Spring Boot e Postman para construir APIs mais robustas
+</div>
 
 ---
 
-### 📊 Dados & BI
+### 👋 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Ferraz de Vasconcelos**, atualmente no **terceiro semestre**.
+
+Atuo como **estagiário na Vivo**, acompanhando projetos de tecnologia, implantação de sistemas, testes de software, indicadores operacionais e análise de dados.
+
+Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Software, Cloud Computing e Inteligência Artificial**, com interesse em arquiteturas escaláveis, pipelines de dados, automação de processos, infraestrutura em nuvem e aplicações baseadas em **IA Generativa e LLMs**.
+
+---
+
+### 💻 Tecnologias
+
+**Linguagens**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
 </p>
 
-### 💻 Desenvolvimento
+**Desenvolvimento e ferramentas**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" title="Postman" />
 </p>
 
-**Aprendendo agora:**
+**Dados e análise**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42" alt="Power BI" title="Power BI" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" height="42" alt="Excel" title="Excel" />
+</p>
+
+**Cloud, infraestrutura e monitoramento**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" height="42" alt="Azure" title="Azure" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="42" height="42" alt="Prometheus" title="Prometheus" />
 </p>
 
 ---
 
-### ⚽ Projeto em destaque
+<div align="center">
 
-<table>
-  <tr>
-    <td width="120" align="center">⚽</td>
-    <td>
-      <b><a href="https://github.com/TCC-Nexa-Luminy/FutLink">FutLink</a></b><br/>
-      Plataforma que conecta jogadores de futebol a clubes, facilitando a descoberta de talentos e oportunidades no esporte. Nasceu como TCC e continua em evolução.
-    </td>
-  </tr>
-</table>
+**See you, space cowboy...**
 
----
-
-### 🔥 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagoConsta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoConsta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoConsta&theme=tokyonight&hide_border=true" />
-</p>
+</div>
