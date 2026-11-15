@@ -97,31 +97,24 @@ Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Soft
 
 ---
 
+---
+
 ### 📈 GitHub Analytics
 
 <div align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=thiagoConsta&show_icons=true&theme=transparent&hide_border=true&title_color=C43C3C&icon_color=C43C3C&text_color=888888"
-    alt="Estatísticas do GitHub"
-  />
+**Minha atividade no GitHub**
 
+<a href="https://github.com/thiagoConsta">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoConsta&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=C43C3C&text_color=888888"
-    alt="Linguagens mais utilizadas"
+    src="https://ghchart.rshah.org/C43C3C/thiagoConsta"
+    alt="Calendário de contribuições do GitHub"
+    width="90%"
   />
-
-  <br/><br/>
-
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoConsta&bg_color=00000000&color=888888&line=C43C3C&point=C43C3C&area=true&area_color=C43C3C&hide_border=true"
-    alt="Gráfico de contribuições"
-  />
+</a>
 
 </div>
+
 
 ---
 
