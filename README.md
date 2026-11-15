@@ -9,8 +9,7 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/
-thiagoribcosta">
+<a href="https://www.linkedin.com/in/thiagoribcosta/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
@@ -72,9 +71,6 @@ Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Soft
 
 **Dados e análise**
 
-
-<!-- Dados e análise -->
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" />
   &nbsp;
@@ -87,7 +83,6 @@ Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Soft
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="42" height="42" alt="Excel" title="Excel" />
 </p>
 
-
 **Cloud, infraestrutura e monitoramento**
 
 <p align="left">
@@ -99,6 +94,34 @@ Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Soft
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="42" height="42" alt="Prometheus" title="Prometheus" />
 </p>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=thiagoConsta&show_icons=true&theme=transparent&hide_border=true&title_color=C43C3C&icon_color=C43C3C&text_color=888888"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoConsta&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=C43C3C&text_color=888888"
+    alt="Linguagens mais utilizadas"
+  />
+
+  <br/><br/>
+
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoConsta&bg_color=00000000&color=888888&line=C43C3C&point=C43C3C&area=true&area_color=C43C3C&hide_border=true"
+    alt="Gráfico de contribuições"
+  />
+
+</div>
 
 ---
 
