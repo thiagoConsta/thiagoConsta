@@ -99,21 +99,24 @@ Sigo aprimorando meus conhecimentos em **Engenharia de Dados, Engenharia de Soft
 
 ---
 
-### 📈 GitHub Analytics
+
+---
+
+### 📊 Linguagens mais utilizadas
 
 <div align="center">
-
-**Minha atividade no GitHub**
-
-<a href="https://github.com/thiagoConsta">
   <img
-    src="https://ghchart.rshah.org/C43C3C/thiagoConsta"
-    alt="Calendário de contribuições do GitHub"
-    width="90%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagoConsta&theme=github_dark"
+    width="48%"
+    alt="Linguagens por repositório"
   />
-</a>
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagoConsta&theme=github_dark"
+    width="48%"
+    alt="Linguagens por commits"
+  />
 </div>
+
 
 
 ---
